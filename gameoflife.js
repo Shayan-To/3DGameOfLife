@@ -12,9 +12,9 @@ Grid = function() {
         
         // thresholds
         th : {
-            lonely: 1,
+            lonely: 4,
             breed: 5,
-            overcrowd: 8
+            overcrowd: 5
         },
         
         // the actual map
